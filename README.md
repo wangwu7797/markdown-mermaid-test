@@ -11,3 +11,21 @@ John-->>Alice: Great!
 John->>Bob: How about you?
 Bob-->>John: Jolly good!
 ```
+
+
+$E = mc^2$
+
+$$
+E = mc^2
+$$
+
+-- $$
+E = mc^2
+$$
+
+$$
+\begin{pmatrix}
+A & B \
+C & D
+\end{pmatrix}
+$$
