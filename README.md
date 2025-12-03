@@ -45,3 +45,5 @@ $$
 \end{bmatrix}
 $$
 
+$$\sum_{n=1}^{\infty} \frac{1}{n^2} = \int_0^{\infty} \frac{x}{e^x - 1} dx = \frac{\pi^2}{6}$$
+
