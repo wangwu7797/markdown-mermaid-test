@@ -29,3 +29,19 @@ A & B \
 C & D
 \end{pmatrix}
 $$
+
+$$
+\begin{pmatrix}
+1 & 2 \
+3 & 4
+\end{pmatrix}
+$$
+
+$$
+\begin{bmatrix}
+1 & 2 & 3 \
+4 & 5 & 6 \
+7 & 8 & 9
+\end{bmatrix}
+$$
+
